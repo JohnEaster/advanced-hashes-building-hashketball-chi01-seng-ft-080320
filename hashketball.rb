@@ -5,7 +5,7 @@ def game_hash
       :colors => ["Black", "White"],
       :players => [
         {
-          :player_name => "Allan Anderson",
+          :player_name => "Alan Anderson",
           :number => 0,
           :shoe => 16,
           :points => 22, 
@@ -76,7 +76,7 @@ def game_hash
           :slam_dunks => 2 
         }, 
         {
-          :player_name => "Bismark Biyombo",
+          :player_name => "Bismack Biyombo",
           :number => 0,
           :shoe => 16,
           :points => 12, 
